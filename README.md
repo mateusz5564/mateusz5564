@@ -96,6 +96,24 @@
   >
 </div>
 
+  <h4>TODO App</h4>
+  <a href="https://gracious-johnson-01e8e8.netlify.app/" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/mateusz5564/mateusz5564/main/thumbnails/todo_app.webp"
+      alt=""
+      width="250"
+    />
+  </a>
+  <br />
+  <a
+    href="https://github.com/mateusz5564/frontend-mentor/tree/todo-app/todo-app"
+    target="_blank"
+  >
+    👨‍💻 Code</a
+  >
+</div>
+
 <div align="center">
   <h4>FAQ Accordion Card</h4>
   <a href="https://trusting-hypatia-93cd7e.netlify.app/" target="_blank">
