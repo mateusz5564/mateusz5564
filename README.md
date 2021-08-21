@@ -18,7 +18,10 @@
 
 <div aling="center">
 <h3 align="center">Projects</h3>
-<a href="" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/mateusz5564/mateusz5564/main/thumbnails/faq.webp" alt="" width="400" />
+    <p align="center">
+<a href="https://trusting-hypatia-93cd7e.netlify.app/" target="_blank"> 
+    <img align="center" src="https://raw.githubusercontent.com/mateusz5564/mateusz5564/main/thumbnails/faq.webp" alt="" width="400" />
 </a>
+    <a href="https://github.com/mateusz5564/frontend-mentor/tree/faq-accordion-card" target="_blank">Code</a>
+    </p>
 </div>
