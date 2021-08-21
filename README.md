@@ -21,6 +21,6 @@
     <h4>FAQ Accordion Card</h4>
 <a href="https://trusting-hypatia-93cd7e.netlify.app/" target="_blank"> 
     <img align="center" src="https://raw.githubusercontent.com/mateusz5564/mateusz5564/main/thumbnails/faq.webp" alt="" width="300" />
-</a> <br>
+</a> 
     <a href="https://github.com/mateusz5564/frontend-mentor/tree/faq-accordion-card" target="_blank" style="display: block"></a>
     </div>
