@@ -96,6 +96,7 @@
   >
 </div>
 
+<div align="center">
   <h4>TODO App</h4>
   <a href="https://gracious-johnson-01e8e8.netlify.app/" target="_blank">
     <img
