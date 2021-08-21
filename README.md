@@ -18,5 +18,5 @@
 
 <h3 align="left">Projects</h3>
 <a href="" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/mateusz5564/mateusz5564/main/thumbnails/faq.webp" alt="" width="640" height="469" />
+    <img src="https://raw.githubusercontent.com/mateusz5564/mateusz5564/main/thumbnails/faq.webp" alt="" width="400" />
 </a>
