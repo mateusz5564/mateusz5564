@@ -16,12 +16,11 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<div aling="center">
 <h3 align="center">Projects</h3>
-    <p align="center">
+    <div align="center">
+    <h4>FAQ Accordion Card</h4>
 <a href="https://trusting-hypatia-93cd7e.netlify.app/" target="_blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/mateusz5564/mateusz5564/main/thumbnails/faq.webp" alt="" width="400" />
+    <img align="center" src="https://raw.githubusercontent.com/mateusz5564/mateusz5564/main/thumbnails/faq.webp" alt="" width="300" />
 </a>
     <a href="https://github.com/mateusz5564/frontend-mentor/tree/faq-accordion-card" target="_blank">Code</a>
-    </p>
-</div>
+    </div>
