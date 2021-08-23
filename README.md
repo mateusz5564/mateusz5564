@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 
-<h2 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/mateuszgawlak" target="blank"
     ><img
@@ -12,7 +12,7 @@
   /></a>
 </p>
 
-<h2 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
@@ -73,14 +73,19 @@
       height="40"
     />
   </a>
-</p> <br /> <br />
+</p>
+<br />
+<br />
 
-<h2 align="center">My Projects</h3>
+<h2 align="center">My Projects</h2>
 
 <div align="center">
   <h3>Frontend Mentor</h3>
- 👨‍🎨 <a href="https://www.frontendmentor.io/profile/mateusz5564/solutions">All my solutions</a>
-  
+  👨‍🎨
+  <a href="https://www.frontendmentor.io/profile/mateusz5564/solutions"
+    >All my solutions</a
+  >
+
   <h4>REST Countries API</h4>
   <a href="https://clever-euclid-714a75.netlify.app/" target="_blank">
     <img
@@ -118,7 +123,6 @@
   >
 </div>
 
-
 <div align="center">
   <h4>Insure Landing Page</h4>
   <a href="https://unruffled-kepler-cd6902.netlify.app/" target="_blank">
@@ -138,7 +142,6 @@
   >
 </div>
 
-
 <div align="center">
   <h4>Clipboard Landing Page</h4>
   <a href="https://thirsty-brahmagupta-432418.netlify.app/" target="_blank">
@@ -157,5 +160,3 @@
     👨‍💻 Code</a
   >
 </div>
-
-
