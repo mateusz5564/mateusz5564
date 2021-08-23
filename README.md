@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/mateuszgawlak" target="blank"
     ><img
@@ -12,7 +12,7 @@
   /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
@@ -75,9 +75,12 @@
   </a>
 </p> <br /> <br />
 
-<h3 align="center">Projects</h3>
+<h2 align="center">My Projects</h3>
 
 <div align="center">
+  <h3>Frontend Mentor</h3>
+ 👨‍🎨 <a href="https://www.frontendmentor.io/profile/mateusz5564/solutions">All my solutions</a>
+  
   <h4>REST Countries API</h4>
   <a href="https://clever-euclid-714a75.netlify.app/" target="_blank">
     <img
@@ -115,21 +118,44 @@
   >
 </div>
 
+
 <div align="center">
-  <h4>FAQ Accordion Card</h4>
-  <a href="https://trusting-hypatia-93cd7e.netlify.app/" target="_blank">
+  <h4>Insure Landing Page</h4>
+  <a href="https://unruffled-kepler-cd6902.netlify.app/" target="_blank">
     <img
       align="center"
-      src="https://raw.githubusercontent.com/mateusz5564/mateusz5564/main/thumbnails/faq.webp"
+      src="https://raw.githubusercontent.com/mateusz5564/mateusz5564/main/thumbnails/insure_landing_page.webp"
       alt=""
       width="250"
     />
   </a>
   <br />
   <a
-    href="https://github.com/mateusz5564/frontend-mentor/tree/faq-accordion-card"
+    href="https://github.com/mateusz5564/frontend-mentor/tree/insure-landing-page"
     target="_blank"
   >
     👨‍💻 Code</a
   >
 </div>
+
+
+<div align="center">
+  <h4>Clipboard Landing Page</h4>
+  <a href="https://thirsty-brahmagupta-432418.netlify.app/" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/mateusz5564/mateusz5564/main/thumbnails/clipboard_landing_page.webp"
+      alt=""
+      width="250"
+    />
+  </a>
+  <br />
+  <a
+    href="https://github.com/mateusz5564/frontend-mentor/tree/clipboard-landing-page"
+    target="_blank"
+  >
+    👨‍💻 Code</a
+  >
+</div>
+
+
