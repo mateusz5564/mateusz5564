@@ -80,6 +80,27 @@
 <h2 align="center">My Projects</h2>
 
 <div align="center">
+  <h3>Lokalna organizacja turystyczna</h3>
+    <a href="https://beskid-zielony.vercel.app/" target="_blank">
+    <img
+      align="center"
+      src="https://zapodaj.net/images/e6106b502284b.png"
+      alt=""
+      width="250"
+    />
+  </a>
+  
+  <br />
+  <a
+    href="https://github.com/mateusz5564/beskid-zielony"
+    target="_blank"
+  >
+    👨‍💻 Code</a
+  >
+</div>
+
+
+<div align="center">
   <h3>Frontend Mentor</h3>
   👨‍🎨
   <a href="https://www.frontendmentor.io/profile/mateusz5564/solutions"
