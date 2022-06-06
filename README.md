@@ -107,6 +107,25 @@
   >
 </div>
 
+<div align="center">
+  <h3>Konferencje</h3>
+    <a href="https://gracious-booth-107a3f.netlify.app/#/" target="_blank">
+    <img
+      align="center"
+      src="https://zapodaj.net/images/17d4f4906f041.png"
+      alt=""
+      width="250"
+    />
+  </a>
+  
+  <br />
+  <a
+    href="https://github.com/mateusz5564/konferencje"
+    target="_blank"
+  >
+    👨‍💻 Code</a
+  >
+</div>
 
 <div align="center">
   <h3>Frontend Mentor</h3>
