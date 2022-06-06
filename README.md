@@ -109,7 +109,7 @@
 
 <div align="center">
   <h3>Konferencje</h3>
-  <div width="250">important: this is the largest project I've ever done, but it's also one of the first projects I did after learning web development for a few months. I skipped learning vanilla JS and just started writing this project in Vue.js, so this app definitely isn't production-ready and well-written. Still, in an optimistic scenario, all features work fine. </p>
+  <div width="250">important: this is the largest project I've ever done, but it's also one of the first projects I did after learning web development for a few months. I skipped learning vanilla JS and just started writing this project in Vue.js, so this app definitely isn't production-ready and well-written. Still, in an ordinary scenario, all features work fine. </p>
     <a href="https://gracious-booth-107a3f.netlify.app/#/" target="_blank">
     <img
       align="center"
