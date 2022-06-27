@@ -30,6 +30,14 @@
       height="40"
     />
   </a>
+  <a href="https://sass-lang.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -41,10 +49,13 @@
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+   <a
+    href="https://www.typescriptlang.org/docs/"
+    target="_blank"
+  >
     <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"
+      alt="typescript"
       width="40"
       height="40"
     />
@@ -57,7 +68,7 @@
       height="40"
     />
   </a>
-    <a href="https://reactjs.org/" target="_blank">
+    <a href="https://nextjs.org/" target="_blank">
     <img
       src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png"
       alt="react"
@@ -65,10 +76,18 @@
       height="40"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank">
+  <a href="https://redux.js.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
+      src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
       width="40"
       height="40"
     />
