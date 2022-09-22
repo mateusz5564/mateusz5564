@@ -111,7 +111,7 @@
     <a href="https://beskid-zielony.vercel.app/" target="_blank">
     <img
       align="center"
-      src="https://zapodaj.net/images/e6106b502284b.png"
+      src="https://i.ibb.co/nfnV91W/Frame-2.png"
       alt=""
       width="250"
     />
@@ -132,7 +132,7 @@
     <a href="https://gracious-booth-107a3f.netlify.app/#/" target="_blank">
     <img
       align="center"
-      src="https://zapodaj.net/images/17d4f4906f041.png"
+      src="https://i.ibb.co/bzLX4Qs/konfpres.png"
       alt=""
       width="250"
     />
