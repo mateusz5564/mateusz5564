@@ -107,6 +107,26 @@
 <h2 align="center">My Projects</h2>
 
 <div align="center">
+  <h3>Skazany na trening</h3>
+    <a href="https://playful-vacherin-dac0c6.netlify.app" target="_blank">
+    <img
+      align="center"
+      src="https://i.ibb.co/7W61R6F/Convict-conditioning-miniatura.jpg"
+      alt=""
+      width="250"
+    />
+  </a>
+  
+  <br />
+  <a
+    href="https://github.com/mateusz5564/convict-conditioning"
+    target="_blank"
+  >
+    👨‍💻 Code</a
+  >
+</div>
+
+<div align="center">
   <h3>Lokalna organizacja turystyczna</h3>
     <a href="https://beskid-zielony.vercel.app/" target="_blank">
     <img
