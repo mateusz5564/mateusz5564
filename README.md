@@ -22,6 +22,14 @@
       height="40"
     />
   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Accessibility.svg/2048px-Accessibility.svg.png"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -33,6 +41,14 @@
   <a href="https://sass-lang.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://getbem.com/" target="_blank">
+    <img
+      src="https://miro.medium.com/max/1000/1*AGA-0gdD017hFbxeRR7vdQ.png"
       alt="sass"
       width="40"
       height="40"
@@ -84,6 +100,31 @@
       height="40"
     />
   </a>
+    <a href="https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/" target="_blank">
+    <img
+      src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+      <a href="https://reactrouter.com/en/main" target="_blank">
+    <img
+      src="https://res.cloudinary.com/practicaldev/image/fetch/s---xCsVK0j--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://reacttraining.com/images/blog/reach-react-router-future.png"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://react-hook-form.com/" target="_blank">
+    <img
+      src="https://avatars.githubusercontent.com/u/53986236?s=280&v=4"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -95,6 +136,14 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://supabase.com/" target="_blank">
+    <img
+      src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png"
       alt="firebase"
       width="40"
       height="40"
