@@ -176,26 +176,6 @@
 </div>
 
 <div align="center">
-  <h3>Local tourist organization</h3>
-    <a href="https://beskid-zielony.vercel.app/" target="_blank">
-    <img
-      align="center"
-      src="https://i.ibb.co/nfnV91W/Frame-2.png"
-      alt=""
-      width="250"
-    />
-  </a>
-  
-  <br />
-  <a
-    href="https://github.com/mateusz5564/beskid-zielony"
-    target="_blank"
-  >
-    👨‍💻 Code</a
-  >
-</div>
-
-<div align="center">
   <h3>Conferences</h3>
   <div width="250">IMPORTANT: API Requests from this app are limited in Google Cloud Console (4000/day and 800/min), so it may stop working. This is the largest project I've ever done, but it's also one of the first projects I did after learning web development for a few months. I skipped learning vanilla JS and just started writing this project in Vue.js, so this app definitely isn't production-ready and well-written, but still after two years of not touching this app it works :)</p>
     <a href="https://gracious-booth-107a3f.netlify.app/#/" target="_blank">
@@ -210,6 +190,26 @@
   <br />
   <a
     href="https://github.com/mateusz5564/konferencje"
+    target="_blank"
+  >
+    👨‍💻 Code</a
+  >
+</div>
+
+<div align="center">
+  <h3>Local tourist organization</h3>
+    <a href="https://beskid-zielony.vercel.app/" target="_blank">
+    <img
+      align="center"
+      src="https://i.ibb.co/nfnV91W/Frame-2.png"
+      alt=""
+      width="250"
+    />
+  </a>
+  
+  <br />
+  <a
+    href="https://github.com/mateusz5564/beskid-zielony"
     target="_blank"
   >
     👨‍💻 Code</a
