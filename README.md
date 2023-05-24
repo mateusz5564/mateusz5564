@@ -102,7 +102,7 @@
   </a>
     <a href="https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/" target="_blank">
     <img
-      src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg"
+      src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png"
       alt="react"
       width="40"
       height="40"
