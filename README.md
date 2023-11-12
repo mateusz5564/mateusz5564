@@ -156,11 +156,31 @@
 <h2 align="center">My Projects</h2>
 
 <div align="center">
+  <h3>Giard design</h3>
+    <a href="https://willowy-kheer-1e740c.netlify.app/" target="_blank">
+    <img
+      align="center"
+      src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaD90o5WC1dcVhD3N0483nwekCQEv93V5yWq9IO5LKIgNo3ZSjD9Q4It0MMwhzdm_MtaBfNt4sHcyNglDzrdTnVmOiqNuA=w1320-h782"
+      alt=""
+      width="250"
+    />
+  </a>
+  
+  <br />
+  <a
+    href="https://github.com/mateusz5564/giarddesign"
+    target="_blank"
+  >
+    👨‍💻 Code</a
+  >
+</div>
+
+<div align="center">
   <h3>Convict Conditioning</h3>
     <a href="https://playful-vacherin-dac0c6.netlify.app" target="_blank">
     <img
       align="center"
-      src="https://i.ibb.co/7W61R6F/Convict-conditioning-miniatura.jpg"
+      src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaAW7k-SziBK__fm75UXphVp0XiAVVVci_m2Xwmc8hLP-FMM7Ofd9SvHfrou8GYXBcp5dUT_AHgDDSjcpGsPcIKxtOpD2A=w1320-h782"
       alt=""
       width="250"
     />
@@ -177,7 +197,7 @@
 
 <div align="center">
   <h3>Conferences</h3>
-  <div width="250">IMPORTANT: API Requests from this app are limited in Google Cloud Console (4000/day and 800/min), so it may stop working. This is the largest project I've ever done, but it's also one of the first projects I did after learning web development for a few months. I skipped learning vanilla JS and just started writing this project in Vue.js, so this app definitely isn't production-ready and well-written, but still after two years of not touching this app it works :)</p>
+  <div width="250">IMPORTANT: API Requests from this app are limited in Google Cloud Console (4000/day and 800/min), so it may not display some data at some point. This is the largest project I've ever done, but it's also one of the first projects I did after learning web development for a few months.</p>
     <a href="https://gracious-booth-107a3f.netlify.app/#/" target="_blank">
     <img
       align="center"
@@ -201,7 +221,7 @@
     <a href="https://beskid-zielony.vercel.app/" target="_blank">
     <img
       align="center"
-      src="https://i.ibb.co/nfnV91W/Frame-2.png"
+      src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCIsoO5CwJkjdv8r4TiP5GSYbgYU-eoMdn8xlGnMgFLyNacS-LSZny2WJwbW-KwIA3jPJp1k0_zz6GtzbVWUhXZjLOXJA=w1320-h782"
       alt=""
       width="250"
     />
