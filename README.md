@@ -160,7 +160,7 @@
     <a href="https://willowy-kheer-1e740c.netlify.app/" target="_blank">
     <img
       align="center"
-      src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaD90o5WC1dcVhD3N0483nwekCQEv93V5yWq9IO5LKIgNo3ZSjD9Q4It0MMwhzdm_MtaBfNt4sHcyNglDzrdTnVmOiqNuA=w1320-h782"
+      src="https://i.ibb.co/2dwVc0t/giarddemo.jpg"
       alt=""
       width="250"
     />
@@ -180,7 +180,7 @@
     <a href="https://playful-vacherin-dac0c6.netlify.app" target="_blank">
     <img
       align="center"
-      src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaAW7k-SziBK__fm75UXphVp0XiAVVVci_m2Xwmc8hLP-FMM7Ofd9SvHfrou8GYXBcp5dUT_AHgDDSjcpGsPcIKxtOpD2A=w1320-h782"
+      src="https://i.ibb.co/MDNvyp3/Convict-conditioning-miniatura.jpg"
       alt=""
       width="250"
     />
@@ -221,7 +221,7 @@
     <a href="https://beskid-zielony.vercel.app/" target="_blank">
     <img
       align="center"
-      src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCIsoO5CwJkjdv8r4TiP5GSYbgYU-eoMdn8xlGnMgFLyNacS-LSZny2WJwbW-KwIA3jPJp1k0_zz6GtzbVWUhXZjLOXJA=w1320-h782"
+      src="https://i.ibb.co/dD71pqD/Beskid-miniatura-2.jpg"
       alt=""
       width="250"
     />
