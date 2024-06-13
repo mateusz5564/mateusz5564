@@ -156,6 +156,26 @@
 <h2 align="center">My Projects</h2>
 
 <div align="center">
+  <h3>Conferences ASP.NET Web API</h3>
+    <a href="https://conferences-api-dev.azurewebsites.net/swagger/index.html" target="_blank">
+    <img
+      align="center"
+      src="https://i.ibb.co/HT2stQ5/conferences-api-thumbnail.jpg"
+      alt=""
+      width="250"
+    />
+  </a>
+  
+  <br />
+  <a
+    href="https://github.com/mateusz5564/conferences-api"
+    target="_blank"
+  >
+    👨‍💻 Code</a
+  >
+</div>
+
+<div align="center">
   <h3>Giard design</h3>
     <a href="https://willowy-kheer-1e740c.netlify.app/" target="_blank">
     <img
